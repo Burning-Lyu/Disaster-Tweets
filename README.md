@@ -1,8 +1,4 @@
-# Hi, I'm Burning-Lyu 👋
-
-## Featured Project
-
-### Disaster Tweet Classification with PyTorch
+# Disaster Tweet Classification with PyTorch
 
 使用 PyTorch 全量微调预训练 DistilBERT，判断英文推文是否描述真实灾害。建立 TF-IDF＋逻辑回归基线，比较正文、关键词和地点输入，并处理重复文本与标签冲突。
 
